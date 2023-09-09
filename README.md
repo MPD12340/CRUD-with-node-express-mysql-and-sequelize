@@ -1,9 +1,3 @@
-node version : v18.17.0
-npm verson  : 9.8.1
-
-
-
-
     # I have made custom error handler for handling errors in my application . 
     # Database credintials are in db.config.js to keep it secure as i have not included it in gitignore so that you can run it on your local.
     # for more advanced at production level migrations with sequelize-cli are used for syncing the databases.
