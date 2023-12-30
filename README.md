@@ -1,5 +1,41 @@
-    # I have made custom error handler for handling errors in my application . 
-    # Database credintials are in db.config.js to keep it secure as i have not included it in gitignore so that you can run it on your local.
-    # for more advanced at production level migrations with sequelize-cli are used for syncing the databases.
-    # Root file is only tested with Jest 
-    # run npx jest to run the testing
+# Project Name
+
+Brief description or tagline for your project.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+Api crud application with node and mysql
+
+
+
+## Prerequisites
+
+Clearly specify what software and dependencies are required to run your project.
+
+- [Node.js](https://nodejs.org/)
+- [MySQL](https://www.mysql.com/)
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-project.git
